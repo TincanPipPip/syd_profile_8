@@ -45,7 +45,6 @@ dependencies:
   - text
   - responsive_image
   - help
-  #contrib
   - admin_toolbar
   - admin_toolbar_tools
   - adminimal_admin_toolbar
