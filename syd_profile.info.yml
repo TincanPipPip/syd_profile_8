@@ -44,21 +44,20 @@ dependencies:
   - datetime
   - text
   - responsive_image
+  - help
   #contrib
   - admin_toolbar
   - admin_toolbar_tools
   - adminimal_admin_toolbar
   - administerusersbyrole
-  - backup_migrate
   - better_exposed_filters
   - ctools
-  - devel
   - field_group
   - field_tools
   - menu_admin_per_menu
   - menu_block
   - metatag
-  - metatag_opengraph
+  - metatag_open_graph
   - metatag_twitter_cards
   - pathauto
   - publishcontent
@@ -66,10 +65,11 @@ dependencies:
   - rename_admin_paths
   - role_delegation
   - sitemap
-  - smart_trim
   - token
   - xmlsitemap
-  - xmlsitemap_node
 
- themes:
-  - adminimal
+themes:
+  - stable
+  - classy
+  - adminimal_theme
+  - pippip
