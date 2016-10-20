@@ -18,8 +18,8 @@ function syd_profile_form_install_configure_form_alter(&$form, FormStateInterfac
   $form['admin_account']['account']['mail']['#default_value'] = 'dp_admin@tincan.co.uk';
 
   // Date/time settings
-  $form['server_settings']['site_default_country']['#default_value'] = 'GB';
-  $form['server_settings']['date_default_timezone']['#default_value'] = 'Europe/London';
+  $form['regional_settings']['site_default_country']['#default_value'] = 'GB';
+  $form['regional_settings']['date_default_timezone']['#default_value'] = 'Europe/London';
 
   // Unset the timezone detect stuff
   unset($form['server_settings']['date_default_timezone']['#attributes']['class']);

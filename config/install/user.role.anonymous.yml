@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: j5zLMOdJBqC0bMvSdth5UebkprJB8g_2FXHqhfpJzow
+  default_config_hash: 7gjic4hXISUIsQggI72_D5sUNWL-QvZZ3ktXmBwQ_zw
 id: anonymous
 label: 'Anonymous user'
 weight: 0
