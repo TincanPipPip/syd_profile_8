@@ -1,0 +1,34 @@
+langcode: en
+status: true
+dependencies: {  }
+id: super_editor
+label: 'Super Editor'
+weight: 3
+is_admin: null
+permissions:
+  - 'create users'
+  - 'cancel users with role editor'
+  - 'edit users with role editor'
+  - 'cancel users with role super_editor'
+  - 'edit users with role super_editor'
+  - 'access contextual links'
+  - 'administer footer menu items'
+  - 'administer main menu items'
+  - 'access content overview'
+  - 'administer nodes'
+  - 'bypass node access'
+  - 'delete all revisions'
+  - 'revert all revisions'
+  - 'view all revisions'
+  - 'view own unpublished content'
+  - 'publish any content'
+  - 'unpublish any content'
+  - 'access in-place editing'
+  - 'administer redirects'
+  - 'assign editor role'
+  - 'assign super_editor role'
+  - 'access shortcuts'
+  - 'access administration pages'
+  - 'view the administration theme'
+  - 'access toolbar'
+  - 'use text format full_html'

@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies: {  }
+id: editor
+label: Editor
+weight: 2
+is_admin: null
+permissions:
+  - 'access contextual links'
+  - 'access content overview'
+  - 'publish editable content'
+  - 'unpublish editable content'
+  - 'access in-place editing'
+  - 'access shortcuts'
+  - 'access administration pages'
+  - 'view the administration theme'
+  - 'access toolbar'
+  - 'use text format full_html'
