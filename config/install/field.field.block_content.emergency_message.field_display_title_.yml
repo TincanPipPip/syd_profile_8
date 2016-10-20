@@ -1,0 +1,22 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.emergency_message
+    - field.storage.block_content.field_display_title_
+id: block_content.emergency_message.field_display_title_
+field_name: field_display_title_
+entity_type: block_content
+bundle: emergency_message
+label: 'Display title?'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'Display title'
+  off_label: 'Off'
+field_type: boolean
