@@ -1,8 +1,9 @@
+uuid: 6d05858a-fec7-4ecb-a60c-6a92c3ee7be3
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: n_FfHKGqUuiCKBb_5fjFDiL3lk7eEkfJvAS8QwjDiy4
+  default_config_hash: eZca1wP_5fCbkLKZajGTrR8BghZ37E0Apm3VeSWdurE
 id: super_editor
 label: 'Super Editor'
 weight: 3
@@ -34,3 +35,7 @@ permissions:
   - 'view the administration theme'
   - 'access toolbar'
   - 'use text format full_html'
+  - 'edit any homepage content'
+  - 'create page content'
+  - 'delete any page content'
+  - 'edit any page content'

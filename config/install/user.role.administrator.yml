@@ -1,8 +1,9 @@
+uuid: 7a90bca7-a7b3-4bef-861f-7586b1d9fd07
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: IYdePCv2hsiaACW3nzykopn1_XEhxYi1Elk9hkitPxs
+  default_config_hash: i3CsIUjhEyKfiqg3Ec4gN5DkEyVABcL_OLDNBPH8usc
 id: administrator
 label: Administrator
 weight: 4
@@ -94,3 +95,19 @@ permissions:
   - 'administer xmlsitemap'
   - 'use text format full_html'
   - 'use text format raw_html'
+  - 'create homepage content'
+  - 'delete any homepage content'
+  - 'delete own homepage content'
+  - 'delete homepage revisions'
+  - 'edit any homepage content'
+  - 'edit own homepage content'
+  - 'revert homepage revisions'
+  - 'view homepage revisions'
+  - 'create page content'
+  - 'delete any page content'
+  - 'delete own page content'
+  - 'delete page revisions'
+  - 'edit any page content'
+  - 'edit own page content'
+  - 'revert page revisions'
+  - 'view page revisions'

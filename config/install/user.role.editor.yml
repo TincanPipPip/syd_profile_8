@@ -1,8 +1,9 @@
+uuid: 559327ab-4ce6-4e4a-8346-675bfaad9d7b
 langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: 7u5kvOKVkS_vRLVhYfF41YQ0A4BtNqPifPVwBYt_p7k
+  default_config_hash: jLHEVagoQiEt7Dkey_Qx0YKMgTmhhW3qWLUHC0GEWts
 id: editor
 label: Editor
 weight: 2
@@ -18,3 +19,6 @@ permissions:
   - 'view the administration theme'
   - 'access toolbar'
   - 'use text format full_html'
+  - 'edit any homepage content'
+  - 'create page content'
+  - 'edit any page content'

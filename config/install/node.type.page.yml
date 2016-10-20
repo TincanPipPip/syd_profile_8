@@ -1,3 +1,4 @@
+uuid: a8aa0df7-dfc0-48c4-ae1b-9723749749fa
 langcode: en
 status: true
 dependencies:
@@ -8,6 +9,8 @@ third_party_settings:
     available_menus:
       - main
     parent: 'main:'
+_core:
+  default_config_hash: a9V9YsC8LncYlP-7Ie0cRhYd_y0O76Ivgn6i7erJj0U
 name: Page
 type: page
 description: ''
