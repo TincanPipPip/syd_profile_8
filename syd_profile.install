@@ -17,10 +17,5 @@ function syd_profile_install() {
   include_once DRUPAL_ROOT . '/core/profiles/minimal/minimal.install';
   minimal_install();
 
-  // Assign user 1 the "administrator" role.
-  $user = User::load(1);
-  $user->roles[] = 'administrator';
-  $user->save();
-
   \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);
 }
