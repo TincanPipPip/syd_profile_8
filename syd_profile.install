@@ -18,4 +18,8 @@ function syd_profile_install() {
   minimal_install();
 
   \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);
+
+  // Install modules without them being locked on
+  \Drupal::service('module_installer')->install(['devel','google_analytics','backup_migrate']);
+
 }
