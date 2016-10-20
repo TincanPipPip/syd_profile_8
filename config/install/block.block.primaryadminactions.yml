@@ -3,6 +3,8 @@ status: true
 dependencies:
   theme:
     - pippip
+_core:
+  default_config_hash: ZsPJDLt92AUJkOGKVv-tG1TW_ak01CdUi7iSXbFJWQA
 id: primaryadminactions
 theme: pippip
 region: admin

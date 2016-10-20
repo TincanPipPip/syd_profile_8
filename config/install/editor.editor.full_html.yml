@@ -5,6 +5,8 @@ dependencies:
     - filter.format.full_html
   module:
     - ckeditor
+_core:
+  default_config_hash: FZgN0QBPDT8fcCBoaUyftyTeUZ9syORzfRtRvCziUqk
 format: full_html
 editor: ckeditor
 settings:

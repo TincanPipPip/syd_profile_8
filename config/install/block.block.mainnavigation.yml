@@ -7,6 +7,8 @@ dependencies:
     - menu_block
   theme:
     - pippip
+_core:
+  default_config_hash: 5WvWKvhUbDRPdgOxgJWKMiNft3DkTsjPcn5etYvluZw
 id: mainnavigation
 theme: pippip
 region: nav

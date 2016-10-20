@@ -5,7 +5,7 @@ dependencies:
     - node
     - user
 _core:
-  default_config_hash: fUDNcSYKNw6cTMPsX3G9VhsUGov5yUe6_TBHbcnZHyo
+  default_config_hash: QNP7OA4mpDN8EH2Q5jZaYnOZBSYcMmIJnI2FVdOuKew
 id: content
 label: Content
 module: node

@@ -3,6 +3,8 @@ status: true
 dependencies:
   module:
     - node
+_core:
+  default_config_hash: YFpQ1WwR49-ph6wAwK6u5_CRt5WmWnwRI7ZvGBCen-4
 id: default
 label: Default
 type: 'canonical_entities:node'
@@ -16,7 +18,6 @@ selection_criteria:
     negate: false
     context_mapping:
       node: node
-    
 selection_logic: and
 weight: -5
 relationships: {  }
