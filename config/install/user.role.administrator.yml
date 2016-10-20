@@ -1,4 +1,3 @@
-uuid: 7a90bca7-a7b3-4bef-861f-7586b1d9fd07
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +6,7 @@ _core:
 id: administrator
 label: Administrator
 weight: 4
-is_admin: null
+is_admin: true
 permissions:
   - 'access users overview'
   - 'cancel users with role authenticated'
