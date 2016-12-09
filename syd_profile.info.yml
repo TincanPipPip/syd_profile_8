@@ -67,6 +67,15 @@ dependencies:
   - token
   - xmlsitemap
   - m4032404
+  - editor_advanced_link
+  - eck
+  - inline_entity_form
+  - editor_advanced_link
+  - eck
+  - inline_entity_form
+  - linkit
+  - soundcloudfield
+  - video_embed_field
 
 themes:
   - stable
