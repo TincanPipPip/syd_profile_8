@@ -76,6 +76,7 @@ dependencies:
   - linkit
   - soundcloudfield
   - video_embed_field
+  - syd_tweaks
 
 themes:
   - stable
