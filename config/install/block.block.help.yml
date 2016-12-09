@@ -6,7 +6,7 @@ dependencies:
   theme:
     - pippip
 _core:
-  default_config_hash: 4ELgFpf2YNyGZGyBuzjZYN9tKDCQWVWfCgHWoeeAw4A
+  default_config_hash: fHdt8tE6Zsj7sboC-VQJoPiqdxZHIkZ3eVsHtBh4Fng
 id: help
 theme: pippip
 region: help

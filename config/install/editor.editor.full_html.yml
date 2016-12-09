@@ -6,7 +6,7 @@ dependencies:
   module:
     - ckeditor
 _core:
-  default_config_hash: FZgN0QBPDT8fcCBoaUyftyTeUZ9syORzfRtRvCziUqk
+  default_config_hash: Pua9gXW2jJBAx4XROhRWhSH8flGKaLAxI6q1Y29-Ojk
 format: full_html
 editor: ckeditor
 settings:
@@ -25,6 +25,7 @@ settings:
           name: Links
           items:
             - DrupalLink
+            - Linkit
             - DrupalUnlink
         -
           name: Lists
@@ -40,6 +41,8 @@ settings:
       language_list: un
     stylescombo:
       styles: ''
+    linkit:
+      linkit_profile: content
 image_upload:
   status: false
   scheme: public

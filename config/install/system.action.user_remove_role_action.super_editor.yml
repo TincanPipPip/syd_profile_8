@@ -6,7 +6,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: 1glr6E-qTRQYCku3xYlVLT6-y8_ihBv_K7BlH5TnLl8
+  default_config_hash: zO0ze8WebFpj1Xnw0gmc8xpCCHpyCw6CGViXtNyBAmU
 id: user_remove_role_action.super_editor
 label: 'Remove the Super Editor role from the selected users'
 type: user

@@ -8,7 +8,7 @@ dependencies:
   theme:
     - pippip
 _core:
-  default_config_hash: 5WvWKvhUbDRPdgOxgJWKMiNft3DkTsjPcn5etYvluZw
+  default_config_hash: sXL6Ahn9zvityhj48GDUbU04PPPUEHVyui4xvScFiNY
 id: mainnavigation
 theme: pippip
 region: nav

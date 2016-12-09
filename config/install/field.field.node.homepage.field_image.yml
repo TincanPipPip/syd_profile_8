@@ -6,6 +6,8 @@ dependencies:
     - node.type.homepage
   module:
     - image
+_core:
+  default_config_hash: aCAUUynxHBSB534EJP19yG6OycZgb9VWNpoBuiRg_rk
 id: node.homepage.field_image
 field_name: field_image
 entity_type: node

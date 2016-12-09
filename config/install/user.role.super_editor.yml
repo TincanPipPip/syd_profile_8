@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: eZca1wP_5fCbkLKZajGTrR8BghZ37E0Apm3VeSWdurE
+  default_config_hash: p6FQamkMXHTN2LGIadRvD51ktCp4pmzBniM11VQtij0
 id: super_editor
 label: 'Super Editor'
 weight: 3

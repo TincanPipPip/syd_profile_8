@@ -9,7 +9,7 @@ third_party_settings:
       - main
     parent: 'main:'
 _core:
-  default_config_hash: gI17skUX_aoKMO4OAr6OCcvKRnbWI4WR-Nxw8YVlEdY
+  default_config_hash: shAN44nbqAlY4c83tZPmlZuzSTcu0pGrjh8WMdhPiKI
 name: Homepage
 type: homepage
 description: ''

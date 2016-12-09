@@ -4,7 +4,7 @@ dependencies:
   theme:
     - pippip
 _core:
-  default_config_hash: ZsPJDLt92AUJkOGKVv-tG1TW_ak01CdUi7iSXbFJWQA
+  default_config_hash: rZBkn6eN_ETStvdcIgy_OWhfxwC1WuNR1Ys16OPV07Q
 id: primaryadminactions
 theme: pippip
 region: admin

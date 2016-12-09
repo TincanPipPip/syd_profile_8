@@ -4,6 +4,8 @@ dependencies:
   config:
     - block_content.type.emergency_message
     - field.storage.block_content.field_display_title_
+_core:
+  default_config_hash: MuSwyUUglSzdNVGOcsSE3wJiuTsW5ughKvdUkzGD600
 id: block_content.emergency_message.field_display_title_
 field_name: field_display_title_
 entity_type: block_content

@@ -6,7 +6,7 @@ dependencies:
   module:
     - user
 _core:
-  default_config_hash: g-4_0h-dGKAXXnpa_BHFVt8SxWLIh_VseQDSjBSadjo
+  default_config_hash: Su42fui4xQzdZA550z3k266BVPZZd4xOfk2rlFT43So
 id: user_add_role_action.editor
 label: 'Add the Editor role to the selected users'
 type: user

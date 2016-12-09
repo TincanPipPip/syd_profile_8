@@ -2,7 +2,7 @@ langcode: en
 status: true
 dependencies: {  }
 _core:
-  default_config_hash: O0NfJbzQmkMg1brwA-gUw8v59V0Ana1YKTeRfb-okGI
+  default_config_hash: e1C2sb3FAsXkLWRUe2GV_tGVk9FzYxIN5S4qoYW4chE
 id: user
 label: User
 tags:
