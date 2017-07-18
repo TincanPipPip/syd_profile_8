@@ -9,8 +9,6 @@ dependencies:
     - image
     - text
     - user
-_core:
-  default_config_hash: BB2mbWjoj-XK9eN2Qi3NWHVx-5RxE-57Wi8R-5TEV4c
 id: node.homepage.default
 targetEntityType: node
 bundle: homepage

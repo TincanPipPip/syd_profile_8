@@ -4,8 +4,6 @@ dependencies:
   module:
     - node
     - user
-_core:
-  default_config_hash: ZzTWQHvgqHjiuOPfgNF13i2xU9FTBh1OwtbdIJiBA_g
 id: content
 label: Content
 module: node

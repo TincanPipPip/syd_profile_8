@@ -3,8 +3,6 @@ status: true
 dependencies:
   theme:
     - adminimal_theme
-_core:
-  default_config_hash: DrjRdYipmOiMsTjWflVduUspmWg5TXMnqw_Om2gkjDA
 id: adminimal_theme_local_actions
 theme: adminimal_theme
 region: content

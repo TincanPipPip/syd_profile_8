@@ -5,8 +5,6 @@ dependencies:
     - user.role.super_editor
   module:
     - user
-_core:
-  default_config_hash: fcFZy42z4WFh1tkumY-VDfAFlAYDl4CyOB7pc5oz69A
 id: user_add_role_action.super_editor
 label: 'Add the Super Editor role to the selected users'
 type: user

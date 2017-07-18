@@ -5,8 +5,6 @@ dependencies:
     - link
     - redirect
     - user
-_core:
-  default_config_hash: CmEaMuCJ98kSh_yrKoFCxG628jM5_QIS9Nmb7cHFBc4
 id: redirect
 label: Redirect
 module: views

@@ -1,8 +1,6 @@
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: O53GxZNmnVLn9X7V45bCNV_KO2MVF31jIL6WtU_O1Bk
 name: 'Full HTML'
 format: full_html
 weight: 0

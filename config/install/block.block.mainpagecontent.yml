@@ -5,8 +5,6 @@ dependencies:
     - system
   theme:
     - pippip
-_core:
-  default_config_hash: 8riDQBYuc43YxgUDOwPoFlb8v2D4IdH4xOEQituDPI4
 id: mainpagecontent
 theme: pippip
 region: content

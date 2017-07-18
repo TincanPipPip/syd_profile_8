@@ -5,8 +5,6 @@ dependencies:
     - user.role.editor
   module:
     - user
-_core:
-  default_config_hash: n0SczXYMdNsEj0skNFOpiVPMiCWoZEVTUE5q4yiyJIY
 id: user_remove_role_action.editor
 label: 'Remove the Editor role from the selected users'
 type: user

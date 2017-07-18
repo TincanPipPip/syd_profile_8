@@ -1,8 +1,6 @@
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: kL1TlJHX30-Xshk1LuIXLlvXdTHkUlpyaiZuU9tphcc
 id: footer
 label: Footer
 description: 'Site information links'

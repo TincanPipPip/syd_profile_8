@@ -1,8 +1,6 @@
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: T1Kk7gV4OdDa3t0rEuBPTyrpfW-3LsP-MMIZZ6Rr1iI
 id: global
 label: Global
 tags:

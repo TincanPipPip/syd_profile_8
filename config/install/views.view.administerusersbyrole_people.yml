@@ -3,8 +3,6 @@ status: true
 dependencies:
   module:
     - user
-_core:
-  default_config_hash: 52AEsiBm8wrIVEWduSrbVCux1g5EGGkaLP55gbdpufE
 id: administerusersbyrole_people
 label: 'People (administerusersbyrole)'
 module: user

@@ -5,8 +5,6 @@ dependencies:
     - user
   theme:
     - adminimal_theme
-_core:
-  default_config_hash: eXh0Bw8L4dGKEdW-oEQVi8OidK0UUX3Vvm1vSKYUfAo
 id: adminimal_theme_login
 theme: adminimal_theme
 region: content

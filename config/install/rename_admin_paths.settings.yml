@@ -2,5 +2,3 @@ admin_path: 0
 admin_path_value: backend
 user_path: 1
 user_path_value: member
-_core:
-  default_config_hash: ejcC4JeM4rnwLz6zSNJwPftqI02NBTjy7T6eih7myIM

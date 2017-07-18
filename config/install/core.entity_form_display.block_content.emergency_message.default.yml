@@ -8,8 +8,6 @@ dependencies:
     - field.field.block_content.emergency_message.field_message_status
   module:
     - text
-_core:
-  default_config_hash: 9H__hFm5npfY1DTVGm6EeAYgCXZdd36t3v15HopUSv4
 id: block_content.emergency_message.default
 targetEntityType: block_content
 bundle: emergency_message

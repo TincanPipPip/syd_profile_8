@@ -1,8 +1,6 @@
 langcode: en
 status: true
 dependencies: {  }
-_core:
-  default_config_hash: 8Wez7hfeLU-Z2e3pyLUMdL2-onKeNJP2FcDYAdNBk74
 id: node
 label: Content
 tags:

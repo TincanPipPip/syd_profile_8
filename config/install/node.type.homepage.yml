@@ -8,8 +8,6 @@ third_party_settings:
     available_menus:
       - main
     parent: 'main:'
-_core:
-  default_config_hash: shAN44nbqAlY4c83tZPmlZuzSTcu0pGrjh8WMdhPiKI
 name: Homepage
 type: homepage
 description: ''
