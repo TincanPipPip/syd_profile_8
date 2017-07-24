@@ -51,6 +51,8 @@ dependencies:
   - administerusersbyrole
   - better_exposed_filters
   - ctools
+  - config_filter
+  - config_ignore
   - field_group
   - field_tools
   - menu_admin_per_menu
