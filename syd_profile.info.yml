@@ -80,6 +80,7 @@ dependencies:
   - twig_tweak
   - entity_browser
   - file_browser
+  - structure_sync
 
 themes:
   - stable
