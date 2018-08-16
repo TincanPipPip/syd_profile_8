@@ -1,9 +1,12 @@
+uuid: 394d90ad-e8de-45c2-984a-7a956fa9ba47
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - text
+_core:
+  default_config_hash: bnSTR9bISiObfzu0RVUan9IEx4gjRjcIIIdGnto-ho0
 id: extra_content.field_quote
 field_name: field_quote
 entity_type: extra_content

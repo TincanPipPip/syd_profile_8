@@ -1,0 +1,9 @@
+uuid: 8a9e85f1-65b8-4d37-9b6b-63f2c2764260
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.logos
+name: 'Logos list'
+type: logos_list
+description: ''

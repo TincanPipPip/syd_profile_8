@@ -1,0 +1,9 @@
+uuid: 304e8ae2-87fc-44ad-861b-d749f7de4820
+langcode: en
+status: true
+dependencies:
+  config:
+    - eck.eck_entity_type.extra_content
+name: CTA
+type: cta
+description: ''

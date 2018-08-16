@@ -1,3 +1,4 @@
+uuid: ca5cd0fd-2395-4df5-a8da-477fe5401a62
 langcode: en
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - field.field.extra_content.text.field_display_title
   module:
     - text
+_core:
+  default_config_hash: IepqRLlSO7WwHzinrtHL3_Dep4z71LUMsu0VeiBhVog
 id: extra_content.text.default
 targetEntityType: extra_content
 bundle: text
@@ -18,6 +21,7 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: text_default
+    region: content
   field_display_title:
     weight: -3
     label: hidden
@@ -27,6 +31,7 @@ content:
       format_custom_false: ''
     third_party_settings: {  }
     type: boolean
+    region: content
   title:
     label: hidden
     type: string
@@ -34,4 +39,5 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
+    region: content
 hidden: {  }

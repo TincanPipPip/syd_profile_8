@@ -1,9 +1,12 @@
+uuid: ef432d2f-f631-4d85-baca-317407e6e4cb
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.downloads
     - field.storage.extra_content.field_display_title
+_core:
+  default_config_hash: e_NQYqz86HiS3LyCvdLpGPl9_LHkM2rsGMer3eGxGV4
 id: extra_content.downloads.field_display_title
 field_name: field_display_title
 entity_type: extra_content

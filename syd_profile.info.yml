@@ -78,7 +78,9 @@ dependencies:
   - syd_tweaks
   - dropzonejs
   - twig_tweak
+  - embed
   - entity_browser
+  - entity_embed
   - file_browser
   - structure_sync
 

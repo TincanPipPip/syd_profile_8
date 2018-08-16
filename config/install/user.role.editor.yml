@@ -1,21 +1,25 @@
+uuid: 6ee894f7-bead-4de8-8774-3411f9aa4b12
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: Mi46VzZKW8Kg7YwiPKUBSfiKtZ8udSr1H-VSIwZRjPw
 id: editor
 label: Editor
 weight: 2
 is_admin: null
 permissions:
-  - 'access contextual links'
+  - 'access administration pages'
   - 'access content overview'
-  - 'publish editable content'
-  - 'unpublish editable content'
+  - 'access contextual links'
   - 'access in-place editing'
   - 'access shortcuts'
-  - 'access administration pages'
-  - 'view the administration theme'
   - 'access toolbar'
-  - 'use text format full_html'
-  - 'edit any homepage content'
   - 'create page content'
+  - 'dropzone upload files'
+  - 'edit any homepage content'
   - 'edit any page content'
+  - 'publish editable content'
+  - 'unpublish editable content'
+  - 'use text format full_html'
+  - 'view the administration theme'

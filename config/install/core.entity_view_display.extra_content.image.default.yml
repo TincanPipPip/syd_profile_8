@@ -1,3 +1,4 @@
+uuid: c30577e1-506f-4a8f-9796-af3edf4431b2
 langcode: en
 status: true
 dependencies:
@@ -7,6 +8,8 @@ dependencies:
     - field.field.extra_content.image.field_image
   module:
     - image
+_core:
+  default_config_hash: ZX-ewjrz6Qf3yTeAksfTO2KGi_B5hmXPyIcWAFbAxfY
 id: extra_content.image.default
 targetEntityType: extra_content
 bundle: image
@@ -21,6 +24,7 @@ content:
       format_custom_false: ''
     third_party_settings: {  }
     type: boolean
+    region: content
   field_image:
     weight: -4
     label: visually_hidden
@@ -29,6 +33,7 @@ content:
       image_link: ''
     third_party_settings: {  }
     type: image
+    region: content
   title:
     label: hidden
     type: string
@@ -36,4 +41,5 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
+    region: content
 hidden: {  }

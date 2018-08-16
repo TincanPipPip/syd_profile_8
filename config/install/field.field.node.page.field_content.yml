@@ -1,16 +1,22 @@
+uuid: c81efdcc-77b4-48ae-b8da-aa5cecbbb577
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.audio
+    - eck.eck_type.extra_content.cta
     - eck.eck_type.extra_content.downloads
+    - eck.eck_type.extra_content.embed
     - eck.eck_type.extra_content.gallery
     - eck.eck_type.extra_content.image
+    - eck.eck_type.extra_content.linked_logos
     - eck.eck_type.extra_content.quote
     - eck.eck_type.extra_content.text
     - eck.eck_type.extra_content.video
     - field.storage.node.field_content
     - node.type.page
+_core:
+  default_config_hash: PC4aXepM5JnnmACTO4vq7jp_WUJhsVW8W_xnEOgNnEY
 id: node.page.field_content
 field_name: field_content
 entity_type: node
@@ -26,9 +32,12 @@ settings:
   handler_settings:
     target_bundles:
       audio: audio
+      cta: cta
       downloads: downloads
+      embed: embed
       gallery: gallery
       image: image
+      linked_logos: linked_logos
       quote: quote
       text: text
       video: video

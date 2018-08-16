@@ -1,9 +1,12 @@
+uuid: aad17df3-7fb4-4983-895b-c5cdc98472e9
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - video_embed_field
+_core:
+  default_config_hash: iripmUnqqKHTNnnj1pTjxyB8IEoJHskJXo4-fyYkW54
 id: extra_content.field_video
 field_name: field_video
 entity_type: extra_content

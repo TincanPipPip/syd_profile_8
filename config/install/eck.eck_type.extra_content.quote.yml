@@ -1,8 +1,11 @@
+uuid: c1a5c3b2-1e95-4c47-9487-f3f971bccde3
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_entity_type.extra_content
+_core:
+  default_config_hash: vgjaA1_XKGIafcWKSmkOdYBeFRKjFum6tUydFM6_cIM
 name: Quote
 type: quote
 description: ''

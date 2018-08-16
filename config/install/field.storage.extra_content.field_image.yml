@@ -1,3 +1,4 @@
+uuid: ad540f72-8ffc-49aa-aa75-d75b85709a2f
 langcode: en
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - eck
     - file
     - image
+_core:
+  default_config_hash: xOVkA85b17fw4e-3PV_8tSFRIv5TEtG-ekcjWnhWTs0
 id: extra_content.field_image
 field_name: field_image
 entity_type: extra_content

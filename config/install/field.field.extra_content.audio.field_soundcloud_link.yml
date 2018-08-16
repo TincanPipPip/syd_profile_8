@@ -1,3 +1,4 @@
+uuid: a251fe59-491d-4354-91f8-facf112ef5f5
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - field.storage.extra_content.field_soundcloud_link
   module:
     - soundcloudfield
+_core:
+  default_config_hash: qOQ-p63_zLQFe3iVvJ5j1jnp48SFhrkZDzJKcO62xLY
 id: extra_content.audio.field_soundcloud_link
 field_name: field_soundcloud_link
 entity_type: extra_content

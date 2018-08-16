@@ -1,3 +1,4 @@
+uuid: f5f3506a-4e2d-432f-a0fa-e375d725cb03
 langcode: en
 status: true
 dependencies:
@@ -9,6 +10,8 @@ dependencies:
     - image
     - text
     - user
+_core:
+  default_config_hash: BB2mbWjoj-XK9eN2Qi3NWHVx-5RxE-57Wi8R-5TEV4c
 id: node.homepage.default
 targetEntityType: node
 bundle: homepage
@@ -20,6 +23,7 @@ content:
     label: hidden
     settings: {  }
     third_party_settings: {  }
+    region: content
   field_image:
     type: image
     weight: 0
@@ -28,8 +32,10 @@ content:
       image_style: ''
       image_link: ''
     third_party_settings: {  }
+    region: content
   links:
     weight: 100
     settings: {  }
     third_party_settings: {  }
+    region: content
 hidden: {  }

@@ -1,6 +1,9 @@
+uuid: c613a496-b7f1-4a8d-88e9-c41de750ee80
 langcode: en
 status: true
 dependencies: {  }
+_core:
+  default_config_hash: pZoOhs7b-ztZzHywjOcTKaQkik3BVhpnywq56oQBH9s
 id: extra_content
 label: 'Extra content'
 created: false

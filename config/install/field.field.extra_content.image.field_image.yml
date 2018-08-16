@@ -1,3 +1,4 @@
+uuid: e1da6a66-0266-48a5-a1f1-53bb1760e8e7
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - field.storage.extra_content.field_image
   module:
     - image
+_core:
+  default_config_hash: CuXLzGqsJxeFmzZt_lEfduLIT1GIae-ebuodLpuDVK4
 id: extra_content.image.field_image
 field_name: field_image
 entity_type: extra_content

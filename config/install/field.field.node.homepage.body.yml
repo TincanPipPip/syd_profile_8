@@ -1,3 +1,4 @@
+uuid: c73fc9a6-41e4-406b-8aa0-eaed614d4c13
 langcode: en
 status: true
 dependencies:
@@ -6,6 +7,8 @@ dependencies:
     - node.type.homepage
   module:
     - text
+_core:
+  default_config_hash: XaTcfXDF2_HLRnGXgL0mGgLEf3qinYViIHKNDzLTep0
 id: node.homepage.body
 field_name: body
 entity_type: node

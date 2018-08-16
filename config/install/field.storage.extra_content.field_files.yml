@@ -1,9 +1,12 @@
+uuid: 01e29f72-55df-4afd-b1db-997d426eac16
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - file
+_core:
+  default_config_hash: lRh566OmTV2DkKzloxWEtmZ7mJlwDOfJv3a40Z9zfYA
 id: extra_content.field_files
 field_name: field_files
 entity_type: extra_content

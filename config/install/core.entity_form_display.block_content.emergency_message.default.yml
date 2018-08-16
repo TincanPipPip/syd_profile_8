@@ -1,3 +1,4 @@
+uuid: a9bcbd5d-2dbb-44f1-a48a-e450c10969ef
 langcode: en
 status: true
 dependencies:
@@ -8,6 +9,8 @@ dependencies:
     - field.field.block_content.emergency_message.field_message_status
   module:
     - text
+_core:
+  default_config_hash: 9H__hFm5npfY1DTVGm6EeAYgCXZdd36t3v15HopUSv4
 id: block_content.emergency_message.default
 targetEntityType: block_content
 bundle: emergency_message
@@ -21,18 +24,21 @@ content:
       summary_rows: 3
       placeholder: ''
     third_party_settings: {  }
+    region: content
   field_display_title_:
     weight: 2
     settings:
       display_label: true
     third_party_settings: {  }
     type: boolean_checkbox
+    region: content
   field_message_status:
     weight: 0
     settings:
       display_label: true
     third_party_settings: {  }
     type: boolean_checkbox
+    region: content
   info:
     type: string_textfield
     weight: 1
@@ -40,4 +46,5 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
+    region: content
 hidden: {  }

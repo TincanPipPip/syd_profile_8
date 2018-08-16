@@ -1,3 +1,4 @@
+uuid: 15f5047b-2210-4662-a452-2243acfe020e
 langcode: en
 status: true
 dependencies:
@@ -5,6 +6,8 @@ dependencies:
     - eck
     - file
     - image
+_core:
+  default_config_hash: 5kjhs6JTQ1faFCNICxHhgrKWLNiWDltw8O_yT8YpC6s
 id: extra_content.field_images
 field_name: field_images
 entity_type: extra_content

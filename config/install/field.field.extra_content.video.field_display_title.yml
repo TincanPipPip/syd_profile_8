@@ -1,9 +1,12 @@
+uuid: dc9dd5e1-213d-4898-b153-4ad976c74d5f
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.video
     - field.storage.extra_content.field_display_title
+_core:
+  default_config_hash: SLPqtzj4hyP7s4W2YK2eYFapmibetdXUsKXZBqxfD5c
 id: extra_content.video.field_display_title
 field_name: field_display_title
 entity_type: extra_content
