@@ -76,6 +76,10 @@ dependencies:
   - soundcloudfield
   - video_embed_field
   - syd_tweaks
+  - dropzonejs
+  - twig_tweak
+  - entity_browser
+  - file_browser
 
 themes:
   - stable
