@@ -1,4 +1,4 @@
-# Syd Profile
+# Syd 8 Profile
 
 Syd Drupal 8 installation profile
 
