@@ -14,7 +14,7 @@
 function syd_profile_install() {
 	
   // First, do everything in minimal profile.
-  include_once DRUPAL_ROOT . '/core/profiles/minimal/minimal.install';
+  include_once DRUPAL_ROOT . '/core/profiles/minimal';
   minimal_install();
 
   \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save(TRUE);
