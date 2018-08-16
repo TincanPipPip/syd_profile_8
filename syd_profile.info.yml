@@ -1,6 +1,6 @@
 name: Syd
 type: profile
-description: 'Syd D8 install profile'
+description: "Syd D8 install profile"
 core: 8.x
 
 # Optional: Declare your installation profile as a distribution
@@ -8,7 +8,7 @@ core: 8.x
 # The distribution_name property is used in the installer and other places as
 # a label for the software being installed.
 distribution:
-  name: Syd 
+  name: Syd
 
 # Required modules
 dependencies:
@@ -64,7 +64,7 @@ dependencies:
   - publishcontent
   - redirect
   - rename_admin_paths
-  - role_delegation
+  - roleassign
   - sitemap
   - token
   - xmlsitemap
