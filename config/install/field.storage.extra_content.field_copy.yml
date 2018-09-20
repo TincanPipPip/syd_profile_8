@@ -8,11 +8,11 @@ id: extra_content.field_copy
 field_name: field_copy
 entity_type: extra_content
 type: text_long
-settings: {  }
+settings: {}
 module: text
 locked: false
 cardinality: 1
 translatable: true
-indexes: {  }
+indexes: {}
 persist_with_no_fields: false
 custom_storage: false

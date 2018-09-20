@@ -11,16 +11,16 @@ field_name: field_files
 entity_type: extra_content
 bundle: downloads
 label: File(s)
-description: ''
+description: ""
 required: true
 translatable: false
-default_value: {  }
-default_value_callback: ''
+default_value: {}
+default_value_callback: ""
 settings:
   file_directory: attachments
-  file_extensions: 'txt pdf xls doc docx xlsx zip'
+  file_extensions: "txt pdf xls doc docx xlsx zip"
   max_filesize: 2MB
   description_field: true
-  handler: 'default:file'
-  handler_settings: {  }
+  handler: "default:file"
+  handler_settings: {}
 field_type: file

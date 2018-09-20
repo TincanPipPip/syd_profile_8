@@ -1,110 +1,110 @@
 langcode: en
 status: true
-dependencies: {  }
+dependencies: {}
 id: administrator
 label: Administrator
 weight: 4
 is_admin: true
 permissions:
-  - 'access users overview'
-  - 'cancel users with role authenticated'
-  - 'create users'
-  - 'edit users with role authenticated'
-  - 'cancel users with role administrator'
-  - 'edit users with role administrator'
-  - 'cancel users with role editor'
-  - 'edit users with role editor'
-  - 'cancel users with role super_editor'
-  - 'edit users with role super_editor'
-  - 'administer blocks'
-  - 'export configuration'
-  - 'import configuration'
-  - 'synchronize configuration'
-  - 'access contextual links'
-  - 'administer display modes'
-  - 'administer node display'
-  - 'administer node fields'
-  - 'administer node form display'
-  - 'administer block_content display'
-  - 'administer block_content fields'
-  - 'administer block_content form display'
-  - 'administer taxonomy_term display'
-  - 'administer taxonomy_term fields'
-  - 'administer taxonomy_term form display'
-  - 'administer user display'
-  - 'administer user fields'
-  - 'administer user form display'
-  - 'access files overview'
-  - 'administer filters'
-  - 'administer image styles'
-  - 'administer admin menu items'
-  - 'administer footer menu items'
-  - 'administer main menu items'
-  - 'administer tools menu items'
-  - 'administer account menu items'
-  - 'administer meta tags'
-  - 'access content overview'
-  - 'administer nodes'
-  - 'administer content types'
-  - 'bypass node access'
-  - 'delete all revisions'
-  - 'revert all revisions'
-  - 'view all revisions'
-  - 'view own unpublished content'
-  - 'administer url aliases'
-  - 'create url aliases'
-  - 'administer pathauto'
-  - 'publish any content'
-  - 'publish editable content'
-  - 'unpublish any content'
-  - 'unpublish editable content'
-  - 'access in-place editing'
-  - 'administer redirects'
-  - 'administer responsive images'
-  - 'assign all roles'
-  - 'assign administrator role'
-  - 'assign editor role'
-  - 'assign super_editor role'
-  - 'administer shortcuts'
-  - 'customize shortcut links'
-  - 'switch shortcut sets'
-  - 'access shortcuts'
-  - 'administer sitemap'
-  - 'administer menu'
-  - 'administer modules'
-  - 'administer site configuration'
-  - 'administer software updates'
-  - 'administer themes'
-  - 'link to any page'
-  - 'access administration pages'
-  - 'access site in maintenance mode'
-  - 'access site reports'
-  - 'view the administration theme'
-  - 'administer taxonomy'
-  - 'access toolbar'
-  - 'administer account settings'
-  - 'administer permissions'
-  - 'administer users'
-  - 'cancel account'
-  - 'select account cancellation method'
-  - 'access user profiles'
-  - 'administer views'
-  - 'administer xmlsitemap'
-  - 'use text format full_html'
-  - 'use text format raw_html'
-  - 'create homepage content'
-  - 'delete any homepage content'
-  - 'delete own homepage content'
-  - 'delete homepage revisions'
-  - 'edit any homepage content'
-  - 'edit own homepage content'
-  - 'revert homepage revisions'
-  - 'view homepage revisions'
-  - 'create page content'
-  - 'delete any page content'
-  - 'delete own page content'
-  - 'delete page revisions'
-  - 'edit any page content'
-  - 'edit own page content'
-  - 'revert page revisions'
-  - 'view page revisions'
+  - "access administration pages"
+  - "access content overview"
+  - "access contextual links"
+  - "access files overview"
+  - "access in-place editing"
+  - "access shortcuts"
+  - "access site in maintenance mode"
+  - "access site reports"
+  - "access toolbar"
+  - "access user profiles"
+  - "access users overview"
+  - "administer account menu items"
+  - "administer account settings"
+  - "administer admin menu items"
+  - "administer block_content display"
+  - "administer block_content fields"
+  - "administer block_content form display"
+  - "administer blocks"
+  - "administer content types"
+  - "administer display modes"
+  - "administer filters"
+  - "administer footer menu items"
+  - "administer image styles"
+  - "administer main menu items"
+  - "administer menu"
+  - "administer meta tags"
+  - "administer modules"
+  - "administer node display"
+  - "administer node fields"
+  - "administer node form display"
+  - "administer nodes"
+  - "administer pathauto"
+  - "administer permissions"
+  - "administer redirects"
+  - "administer responsive images"
+  - "administer shortcuts"
+  - "administer site configuration"
+  - "administer sitemap"
+  - "administer software updates"
+  - "administer taxonomy"
+  - "administer taxonomy_term display"
+  - "administer taxonomy_term fields"
+  - "administer taxonomy_term form display"
+  - "administer themes"
+  - "administer tools menu items"
+  - "administer url aliases"
+  - "administer user display"
+  - "administer user fields"
+  - "administer user form display"
+  - "administer users"
+  - "administer views"
+  - "administer xmlsitemap"
+  - "assign administrator role"
+  - "assign all roles"
+  - "assign editor role"
+  - "assign super_editor role"
+  - "bypass node access"
+  - "cancel account"
+  - "cancel users with role administrator"
+  - "cancel users with role authenticated"
+  - "cancel users with role editor"
+  - "cancel users with role super_editor"
+  - "create homepage content"
+  - "create page content"
+  - "create url aliases"
+  - "create users"
+  - "customize shortcut links"
+  - "delete all revisions"
+  - "delete any homepage content"
+  - "delete any page content"
+  - "delete homepage revisions"
+  - "delete own homepage content"
+  - "delete own page content"
+  - "delete page revisions"
+  - "edit any homepage content"
+  - "edit any page content"
+  - "edit own homepage content"
+  - "edit own page content"
+  - "edit users with role administrator"
+  - "edit users with role authenticated"
+  - "edit users with role editor"
+  - "edit users with role super_editor"
+  - "export configuration"
+  - "import configuration"
+  - "link to any page"
+  - "publish any content"
+  - "publish editable content"
+  - "revert all revisions"
+  - "revert homepage revisions"
+  - "revert page revisions"
+  - "select account cancellation method"
+  - "switch shortcut sets"
+  - "synchronize configuration"
+  - "unpublish any content"
+  - "unpublish editable content"
+  - "use text format full_html"
+  - "use text format raw_html"
+  - "view all revisions"
+  - "view homepage revisions"
+  - "view own unpublished content"
+  - "view page revisions"
+  - "view the administration theme"

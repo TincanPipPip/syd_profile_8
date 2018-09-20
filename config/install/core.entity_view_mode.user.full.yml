@@ -4,6 +4,6 @@ dependencies:
   module:
     - user
 id: user.full
-label: 'User account'
+label: "User account"
 targetEntityType: user
 cache: true

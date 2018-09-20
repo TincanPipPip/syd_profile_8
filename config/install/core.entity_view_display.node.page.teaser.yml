@@ -4,6 +4,7 @@ dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.page.body
+    - field.field.node.page.field_content
     - field.field.node.page.field_image
     - node.type.page
   module:
@@ -21,17 +22,21 @@ content:
     label: hidden
     settings:
       trim_length: 600
-    third_party_settings: {  }
+    third_party_settings: {}
+    region: content
   field_image:
     weight: 101
     label: hidden
     settings:
-      image_style: ''
-      image_link: ''
-    third_party_settings: {  }
+      image_style: ""
+      image_link: ""
+    third_party_settings: {}
     type: image
+    region: content
   links:
     weight: 100
-    settings: {  }
-    third_party_settings: {  }
-hidden: {  }
+    settings: {}
+    third_party_settings: {}
+    region: content
+hidden:
+  field_content: true

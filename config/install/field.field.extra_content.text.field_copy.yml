@@ -11,10 +11,10 @@ field_name: field_copy
 entity_type: extra_content
 bundle: text
 label: Copy
-description: ''
+description: ""
 required: true
 translatable: false
-default_value: {  }
-default_value_callback: ''
-settings: {  }
+default_value: {}
+default_value_callback: ""
+settings: {}
 field_type: text_long

@@ -10,11 +10,11 @@ id: extra_content.audio.field_soundcloud_link
 field_name: field_soundcloud_link
 entity_type: extra_content
 bundle: audio
-label: 'Soundcloud link'
-description: ''
+label: "Soundcloud link"
+description: ""
 required: false
 translatable: false
-default_value: {  }
-default_value_callback: ''
-settings: {  }
+default_value: {}
+default_value_callback: ""
+settings: {}
 field_type: soundcloud

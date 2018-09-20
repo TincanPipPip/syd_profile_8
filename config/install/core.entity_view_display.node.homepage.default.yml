@@ -18,18 +18,21 @@ content:
     type: text_default
     weight: 0
     label: hidden
-    settings: {  }
-    third_party_settings: {  }
+    settings: {}
+    third_party_settings: {}
+    region: content
   field_image:
     type: image
     weight: 0
     label: hidden
     settings:
-      image_style: ''
-      image_link: ''
-    third_party_settings: {  }
+      image_style: ""
+      image_link: ""
+    third_party_settings: {}
+    region: content
   links:
     weight: 100
-    settings: {  }
-    third_party_settings: {  }
-hidden: {  }
+    settings: {}
+    third_party_settings: {}
+    region: content
+hidden: {}

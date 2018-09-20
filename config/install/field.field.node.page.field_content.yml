@@ -3,9 +3,12 @@ status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.audio
+    - eck.eck_type.extra_content.cta
     - eck.eck_type.extra_content.downloads
+    - eck.eck_type.extra_content.embed
     - eck.eck_type.extra_content.gallery
     - eck.eck_type.extra_content.image
+    - eck.eck_type.extra_content.linked_logos
     - eck.eck_type.extra_content.quote
     - eck.eck_type.extra_content.text
     - eck.eck_type.extra_content.video
@@ -16,19 +19,22 @@ field_name: field_content
 entity_type: node
 bundle: page
 label: Content
-description: ''
+description: ""
 required: false
 translatable: false
-default_value: {  }
-default_value_callback: ''
+default_value: {}
+default_value_callback: ""
 settings:
-  handler: 'default:extra_content'
+  handler: "default:extra_content"
   handler_settings:
     target_bundles:
       audio: audio
+      cta: cta
       downloads: downloads
+      embed: embed
       gallery: gallery
       image: image
+      linked_logos: linked_logos
       quote: quote
       text: text
       video: video

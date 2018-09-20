@@ -1,8 +1,8 @@
 langcode: en
 status: true
-dependencies: {  }
+dependencies: {}
 id: extra_content
-label: 'Extra content'
+label: "Extra content"
 created: false
 changed: false
 uid: false

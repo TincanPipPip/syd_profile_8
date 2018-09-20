@@ -5,4 +5,4 @@ dependencies:
     - eck.eck_entity_type.extra_content
 name: Gallery
 type: gallery
-description: ''
+description: ""

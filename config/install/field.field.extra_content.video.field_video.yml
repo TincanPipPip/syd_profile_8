@@ -10,15 +10,15 @@ id: extra_content.video.field_video
 field_name: field_video
 entity_type: extra_content
 bundle: video
-label: 'Video link'
-description: ''
+label: "Video link"
+description: ""
 required: false
 translatable: false
-default_value: {  }
-default_value_callback: ''
+default_value: {}
+default_value_callback: ""
 settings:
   allowed_providers:
     vimeo: vimeo
     youtube: youtube
-    youtube_playlist: '0'
+    youtube_playlist: "0"
 field_type: video_embed_field

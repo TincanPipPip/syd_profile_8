@@ -17,24 +17,27 @@ content:
     label: hidden
     type: text_default
     weight: 0
-    settings: {  }
-    third_party_settings: {  }
+    settings: {}
+    third_party_settings: {}
+    region: content
   field_display_title_:
     weight: 1
     label: hidden
     settings:
       format: boolean
-      format_custom_true: ''
-      format_custom_false: ''
-    third_party_settings: {  }
+      format_custom_true: ""
+      format_custom_false: ""
+    third_party_settings: {}
     type: boolean
+    region: content
   field_message_status:
     weight: 2
     label: hidden
     settings:
       format: boolean
-      format_custom_true: ''
-      format_custom_false: ''
-    third_party_settings: {  }
+      format_custom_true: ""
+      format_custom_false: ""
+    third_party_settings: {}
     type: boolean
-hidden: {  }
+    region: content
+hidden: {}

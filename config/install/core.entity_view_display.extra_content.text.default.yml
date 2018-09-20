@@ -15,23 +15,26 @@ content:
   field_copy:
     weight: -4
     label: hidden
-    settings: {  }
-    third_party_settings: {  }
+    settings: {}
+    third_party_settings: {}
     type: text_default
+    region: content
   field_display_title:
     weight: -3
     label: hidden
     settings:
       format: boolean
-      format_custom_true: ''
-      format_custom_false: ''
-    third_party_settings: {  }
+      format_custom_true: ""
+      format_custom_false: ""
+    third_party_settings: {}
     type: boolean
+    region: content
   title:
     label: hidden
     type: string
     weight: -5
     settings:
       link_to_entity: false
-    third_party_settings: {  }
-hidden: {  }
+    third_party_settings: {}
+    region: content
+hidden: {}

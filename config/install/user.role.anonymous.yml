@@ -1,10 +1,10 @@
 langcode: en
 status: true
-dependencies: {  }
+dependencies: {}
 id: anonymous
-label: 'Anonymous user'
+label: "Anonymous user"
 weight: 0
 is_admin: false
 permissions:
-  - 'access content'
-  - 'access sitemap'
+  - "access content"
+  - "access sitemap"
