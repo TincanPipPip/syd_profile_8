@@ -1,12 +1,9 @@
-uuid: 5e8f1ac4-ee1b-4205-ac75-c97290a911eb
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - soundcloudfield
-_core:
-  default_config_hash: ZlyytOdQCVcKdQr3Hayvm_y36LMdZfvv6zNn83KKUmw
 id: extra_content.field_soundcloud_link
 field_name: field_soundcloud_link
 entity_type: extra_content

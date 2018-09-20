@@ -1,4 +1,3 @@
-uuid: 72d0792d-ff3c-41ef-ac54-dae363ab7688
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,6 @@ dependencies:
     - field.field.extra_content.video.field_video
   module:
     - video_embed_field
-_core:
-  default_config_hash: A3TVEG7o8LXiTIMcT2KpxwVh-FU7RIeIMTvQrjsws40
 id: extra_content.video.default
 targetEntityType: extra_content
 bundle: video
@@ -24,18 +21,16 @@ content:
       format_custom_false: ''
     third_party_settings: {  }
     type: boolean
-    region: content
   field_video:
     weight: -4
     label: visually_hidden
     settings:
+      autoplay: true
       responsive: true
       width: 854
       height: 480
-      autoplay: false
     third_party_settings: {  }
     type: video_embed_field_video
-    region: content
   title:
     label: hidden
     type: string
@@ -43,5 +38,4 @@ content:
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    region: content
 hidden: {  }

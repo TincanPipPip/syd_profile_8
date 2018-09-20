@@ -1,9 +1,0 @@
-uuid: b6f2b95a-44e2-41ee-ad9f-5768ece373a7
-langcode: en
-status: true
-dependencies:
-  config:
-    - eck.eck_entity_type.extra_content
-name: Embed
-type: embed
-description: ''

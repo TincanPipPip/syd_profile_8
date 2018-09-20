@@ -1,12 +1,9 @@
-uuid: 7255690b-49a3-42fc-a49b-4a6f3d486d5a
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.text
     - field.storage.extra_content.field_display_title
-_core:
-  default_config_hash: 2ueP4ITGIyeAVVITonB0UmL-_kPtxLOyXh_JSLZI5Ak
 id: extra_content.text.field_display_title
 field_name: field_display_title
 entity_type: extra_content

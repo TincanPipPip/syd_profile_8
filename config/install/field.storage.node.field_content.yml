@@ -1,12 +1,9 @@
-uuid: 0d4c4296-a31e-4f29-9fea-d0fef4c15f8a
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - node
-_core:
-  default_config_hash: i2M7DHNHsqMDGVqqp6gMY79l6af9mOv3-zL7FospLWs
 id: node.field_content
 field_name: field_content
 entity_type: node

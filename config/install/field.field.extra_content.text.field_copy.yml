@@ -1,4 +1,3 @@
-uuid: 74286b24-20ca-4266-a495-5c94c64247d5
 langcode: en
 status: true
 dependencies:
@@ -7,8 +6,6 @@ dependencies:
     - field.storage.extra_content.field_copy
   module:
     - text
-_core:
-  default_config_hash: gvsTbqlQxQowFdKEElWg0lruckMCzZSH8Bbw752M16o
 id: extra_content.text.field_copy
 field_name: field_copy
 entity_type: extra_content

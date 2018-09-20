@@ -1,11 +1,8 @@
-uuid: d7b05a0e-7108-45cd-aac3-6fc6248a4c12
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_entity_type.extra_content
-_core:
-  default_config_hash: '-kV_uURPbzFGpvdzJqjTnxSsCSKg1ZwiHSw5rs5Se3I'
 name: Video
 type: video
 description: ''

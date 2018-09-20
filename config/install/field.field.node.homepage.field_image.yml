@@ -1,4 +1,3 @@
-uuid: 128561ed-f9aa-41f1-a44c-aa9a354a64c7
 langcode: en
 status: true
 dependencies:
@@ -7,8 +6,6 @@ dependencies:
     - node.type.homepage
   module:
     - image
-_core:
-  default_config_hash: aCAUUynxHBSB534EJP19yG6OycZgb9VWNpoBuiRg_rk
 id: node.homepage.field_image
 field_name: field_image
 entity_type: node

@@ -1,4 +1,3 @@
-uuid: 166d591d-e0ab-4290-9f77-8e6c8ce9f178
 langcode: en
 status: true
 dependencies:
@@ -7,8 +6,6 @@ dependencies:
     - field.storage.extra_content.field_quote
   module:
     - text
-_core:
-  default_config_hash: QQpER_hVdjqOn29lfCenB3BvcuO08OSj3dTzurt_1Co
 id: extra_content.quote.field_quote
 field_name: field_quote
 entity_type: extra_content

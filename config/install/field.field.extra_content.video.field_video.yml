@@ -1,4 +1,3 @@
-uuid: f233a36d-9ce0-49fd-bda9-8702e90ff139
 langcode: en
 status: true
 dependencies:
@@ -7,8 +6,6 @@ dependencies:
     - field.storage.extra_content.field_video
   module:
     - video_embed_field
-_core:
-  default_config_hash: sVcGxMVjUSGRW0HuvrVe__mXWwACHh_byVtZZ7L6VGI
 id: extra_content.video.field_video
 field_name: field_video
 entity_type: extra_content

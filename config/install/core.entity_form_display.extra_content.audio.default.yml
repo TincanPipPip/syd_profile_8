@@ -1,4 +1,3 @@
-uuid: 80ea4e82-6779-491a-b0c8-16082dd16ce8
 langcode: en
 status: true
 dependencies:
@@ -8,8 +7,6 @@ dependencies:
     - field.field.extra_content.audio.field_soundcloud_link
   module:
     - soundcloudfield
-_core:
-  default_config_hash: JCvkRVXEm9z8JrUfVefb0SjkUQTOpo3YxtC2RVTGKDI
 id: extra_content.audio.default
 targetEntityType: extra_content
 bundle: audio
@@ -21,7 +18,6 @@ content:
       display_label: true
     third_party_settings: {  }
     type: boolean_checkbox
-    region: content
   field_soundcloud_link:
     weight: 2
     settings:
@@ -29,7 +25,6 @@ content:
       placeholder_url: ''
     third_party_settings: {  }
     type: soundcloud_url
-    region: content
   title:
     type: string_textfield
     weight: 0
@@ -37,5 +32,4 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-    region: content
 hidden: {  }

@@ -1,9 +1,0 @@
-uuid: 27551c8a-7197-4f70-8c15-f763d93c5fe6
-langcode: en
-status: true
-dependencies:
-  config:
-    - eck.eck_entity_type.extra_content
-name: 'Linked logos'
-type: linked_logos
-description: ''

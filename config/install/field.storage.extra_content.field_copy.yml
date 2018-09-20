@@ -1,12 +1,9 @@
-uuid: 3eb48a2e-c285-4394-aa71-be8824669109
 langcode: en
 status: true
 dependencies:
   module:
     - eck
     - text
-_core:
-  default_config_hash: xZs8VrMVtCCrskuGJAzuTe36MEKW0us9GuaqbhCvCsk
 id: extra_content.field_copy
 field_name: field_copy
 entity_type: extra_content

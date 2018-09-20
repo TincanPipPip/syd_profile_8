@@ -1,12 +1,9 @@
-uuid: a9a5bb54-b07b-4315-9797-5470cab2bfdf
 langcode: en
 status: true
 dependencies:
   config:
     - eck.eck_type.extra_content.audio
     - field.storage.extra_content.field_display_title
-_core:
-  default_config_hash: Y7zRg-KVjcrM4M4abNNB8AsxsjFqZ9pAOGsNlvdWg6M
 id: extra_content.audio.field_display_title
 field_name: field_display_title
 entity_type: extra_content

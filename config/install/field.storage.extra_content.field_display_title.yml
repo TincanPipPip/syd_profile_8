@@ -1,11 +1,8 @@
-uuid: 43b40021-81f5-4ea3-932a-80aca6bb920d
 langcode: en
 status: true
 dependencies:
   module:
     - eck
-_core:
-  default_config_hash: HepJKbo9eNw1DAJDhwCH-U8EtG11ET2a30KUE4bSpAs
 id: extra_content.field_display_title
 field_name: field_display_title
 entity_type: extra_content
