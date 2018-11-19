@@ -10,37 +10,42 @@ editor: ckeditor
 settings:
   toolbar:
     rows:
-      - - name: Formatting
+      -
+        -
+          name: Formatting
           items:
             - Format
             - Bold
             - Italic
             - Blockquote
             - SpecialChar
-        - name: Links
+        -
+          name: Links
           items:
             - DrupalLink
             - Linkit
             - DrupalUnlink
-        - name: Lists
+        -
+          name: Lists
           items:
             - BulletedList
             - NumberedList
-        - name: Tools
+        -
+          name: Tools
           items:
             - Source
   plugins:
     language:
       language_list: un
     stylescombo:
-      styles: ""
+      styles: ''
     linkit:
-      linkit_profile: content
+      linkit_profile: default
 image_upload:
   status: false
   scheme: public
   directory: inline-images
-  max_size: ""
+  max_size: ''
   max_dimensions:
     width: null
     height: null

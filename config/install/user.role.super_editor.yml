@@ -22,7 +22,6 @@ permissions:
   - 'assign editor role'
   - 'assign roles'
   - 'assign super_editor role'
-  - 'bypass node access'
   - 'cancel users with role editor'
   - 'cancel users with role super_editor'
   - 'create extra_content entities'
