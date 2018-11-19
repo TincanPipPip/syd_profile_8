@@ -10,3 +10,5 @@ permissions:
   - "access sitemap"
   - "cancel account"
   - "change own username"
+  - 'view any extra_content entities'
+  - 'view any logos entities'

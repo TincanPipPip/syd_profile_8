@@ -8,3 +8,5 @@ is_admin: false
 permissions:
   - "access content"
   - "access sitemap"
+  - 'view any extra_content entities'
+  - 'view any logos entities'
