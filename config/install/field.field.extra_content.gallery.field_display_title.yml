@@ -8,14 +8,15 @@ id: extra_content.gallery.field_display_title
 field_name: field_display_title
 entity_type: extra_content
 bundle: gallery
-label: "Display title?"
-description: ""
+label: 'Display title?'
+description: ''
 required: false
 translatable: false
 default_value:
-  - value: 0
-default_value_callback: ""
+  -
+    value: 0
+default_value_callback: ''
 settings:
-  on_label: "On"
-  off_label: "Off"
+  on_label: 'On'
+  off_label: 'Off'
 field_type: boolean

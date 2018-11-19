@@ -17,9 +17,9 @@ content:
     weight: -3
     label: hidden
     settings:
-      image_style: ""
-      image_link: ""
-    third_party_settings: {}
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
     type: image
     region: content
   field_logo_link:
@@ -29,9 +29,9 @@ content:
       trim_length: null
       url_only: true
       url_plain: true
-      rel: "0"
-      target: "0"
-    third_party_settings: {}
+      rel: '0'
+      target: '0'
+    third_party_settings: {  }
     type: link
     region: content
   title:
@@ -41,5 +41,5 @@ content:
     region: content
     settings:
       link_to_entity: false
-    third_party_settings: {}
-hidden: {}
+    third_party_settings: {  }
+hidden: {  }

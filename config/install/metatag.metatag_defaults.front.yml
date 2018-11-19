@@ -5,4 +5,7 @@ id: front
 label: 'Front page'
 tags:
   canonical_url: '[site:url]'
+  image_src: '[node:field_image]'
   shortlink: '[site:url]'
+  og_image: '[node:field_image]'
+  twitter_cards_image: '[node:field_image]'

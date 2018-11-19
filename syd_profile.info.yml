@@ -83,6 +83,9 @@ dependencies:
   - entity_embed
   - file_browser
   - structure_sync
+  - block_content_permissions
+  - menu_block_title
+  - admin_toolbar_links_access_filter
 
 themes:
   - stable
