@@ -86,6 +86,7 @@ dependencies:
   - block_content_permissions
   - menu_block_title
   - admin_toolbar_links_access_filter
+  - block_region_permissions
 
 themes:
   - stable
