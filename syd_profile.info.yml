@@ -87,6 +87,9 @@ dependencies:
   - menu_block_title
   - admin_toolbar_links_access_filter
   - block_region_permissions
+  - smart_trim
+  - imageapi_optimize
+  - imageapi_optimize_resmushit
 
 themes:
   - stable
