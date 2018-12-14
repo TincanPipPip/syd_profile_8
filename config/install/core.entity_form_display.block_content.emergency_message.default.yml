@@ -4,8 +4,7 @@ dependencies:
   config:
     - block_content.type.emergency_message
     - field.field.block_content.emergency_message.body
-    - field.field.block_content.emergency_message.field_display_title_
-    - field.field.block_content.emergency_message.field_message_status
+    - field.field.block_content.emergency_message.field_display_message
   module:
     - text
 id: block_content.emergency_message.default
@@ -15,33 +14,26 @@ mode: default
 content:
   body:
     type: text_textarea_with_summary
-    weight: 3
+    weight: 2
     settings:
       rows: 9
       summary_rows: 3
-      placeholder: ""
-    third_party_settings: {}
+      placeholder: ''
+    third_party_settings: {  }
     region: content
-  field_display_title_:
-    weight: 2
-    settings:
-      display_label: true
-    third_party_settings: {}
-    type: boolean_checkbox
-    region: content
-  field_message_status:
+  field_display_message:
     weight: 0
     settings:
       display_label: true
-    third_party_settings: {}
+    third_party_settings: {  }
     type: boolean_checkbox
     region: content
   info:
     type: string_textfield
     weight: 1
+    region: content
     settings:
       size: 60
-      placeholder: ""
-    third_party_settings: {}
-    region: content
-hidden: {}
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }
