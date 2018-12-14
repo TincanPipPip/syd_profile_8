@@ -3,19 +3,16 @@ status: true
 dependencies:
   config:
     - block_content.type.emergency_message
-    - field.storage.block_content.body
-  module:
-    - text
-id: block_content.emergency_message.body
-field_name: body
+    - field.storage.block_content.field_title
+id: block_content.emergency_message.field_title
+field_name: field_title
 entity_type: block_content
 bundle: emergency_message
-label: Body
+label: Title
 description: ''
 required: false
-translatable: true
+translatable: false
 default_value: {  }
 default_value_callback: ''
-settings:
-  display_summary: false
-field_type: text_with_summary
+settings: {  }
+field_type: string
