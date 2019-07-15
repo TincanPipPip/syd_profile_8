@@ -90,6 +90,7 @@ dependencies:
   - smart_trim
   - imageapi_optimize
   - imageapi_optimize_resmushit
+  - anchor_link
 
 themes:
   - stable
