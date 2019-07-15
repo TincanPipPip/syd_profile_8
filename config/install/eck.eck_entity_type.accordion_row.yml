@@ -1,8 +1,8 @@
 langcode: en
 status: true
 dependencies: {  }
-id: extra_content
-label: 'Extra content'
+id: accordion_row
+label: 'Accordion row'
 created: false
 changed: false
 uid: false
