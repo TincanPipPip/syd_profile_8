@@ -43,7 +43,6 @@ dependencies:
   - link
   - datetime
   - text
-  - responsive_image
   - help
   - admin_toolbar
   - admin_toolbar_tools
@@ -65,7 +64,6 @@ dependencies:
   - redirect
   - rename_admin_paths
   - roleassign
-  - sitemap
   - token
   - xmlsitemap
   - m4032404
