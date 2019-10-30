@@ -5,6 +5,7 @@ dependencies:
     - eck.eck_type.extra_content.image
     - field.field.extra_content.image.field_display_title
     - field.field.extra_content.image.field_image
+    - field.field.extra_content.image.field_image_credit
   module:
     - image
 id: extra_content.image.default
@@ -30,6 +31,14 @@ content:
       image_link: ''
     third_party_settings: {  }
     type: image
+    region: content
+  field_image_credit:
+    weight: 103
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
     region: content
   title:
     label: hidden

@@ -6,6 +6,7 @@ dependencies:
     - entity_browser.browser.browse_files
     - field.field.extra_content.image.field_display_title
     - field.field.extra_content.image.field_image
+    - field.field.extra_content.image.field_image_credit
   module:
     - entity_browser
 id: extra_content.image.default
@@ -33,6 +34,14 @@ content:
       view_mode: default
     third_party_settings: {  }
     type: entity_browser_file
+    region: content
+  field_image_credit:
+    weight: 9
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
     region: content
   title:
     type: string_textfield

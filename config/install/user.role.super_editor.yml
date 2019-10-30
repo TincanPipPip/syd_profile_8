@@ -61,6 +61,7 @@ permissions:
   - 'unpublish own node type page'
   - 'update any emergency_message block content'
   - 'update any general block content'
+  - 'update any partners block content'
   - 'use text format full_html'
   - 'view all revisions'
   - 'view any accordion_row entities'

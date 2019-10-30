@@ -35,6 +35,9 @@ settings:
           name: Tools
           items:
             - Source
+            - Cut
+            - Copy
+            - PasteFromWord
   plugins:
     stylescombo:
       styles: ''

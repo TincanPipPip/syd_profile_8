@@ -5,6 +5,7 @@ dependencies:
     - eck.eck_type.logos.logos_list
     - field.field.logos.logos_list.field_logo
     - field.field.logos.logos_list.field_logo_link
+    - image.style.logo
   module:
     - image
     - link
@@ -17,7 +18,7 @@ content:
     weight: -3
     label: hidden
     settings:
-      image_style: ''
+      image_style: logo
       image_link: ''
     third_party_settings: {  }
     type: image
