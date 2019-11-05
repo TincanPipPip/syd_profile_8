@@ -90,6 +90,7 @@ dependencies:
   - imageapi_optimize_resmushit
   - anchor_link
   - view_unpublished
+  - views_bulk_operations
 
 themes:
   - stable
