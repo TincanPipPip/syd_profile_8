@@ -89,6 +89,7 @@ dependencies:
   - imageapi_optimize
   - imageapi_optimize_resmushit
   - anchor_link
+  - view_unpublished
 
 themes:
   - stable
